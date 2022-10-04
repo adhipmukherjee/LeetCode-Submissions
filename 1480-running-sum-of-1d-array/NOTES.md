@@ -1,0 +1,1 @@
+the for loop should run from 1 to n because for a[0] the element will be a[0] itself the sum will start from a[1] coz a[1]+a[0]
