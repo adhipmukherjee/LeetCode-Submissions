@@ -9,5 +9,8 @@ we create a variable called it where we store the upper bound timestamp value fr
 ​
 then we return the previous(timestamp value)
 ​
+(it) is a pointer. pointing to { timestamp , value }
+'it->first ' will return -> (timestamp)
+'it->second' will return-> (value) (in this case the string we need ) .
 ​
 ​
